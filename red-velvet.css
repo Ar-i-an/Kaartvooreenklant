@@ -139,7 +139,8 @@ nav ul li a{
 }
 
 #cake-foto {
-    z-index: -1;
+    position: relative;
+    left: 10%;
 }
 
 #title-cake {
